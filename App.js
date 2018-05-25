@@ -11,6 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
+import BackgroundGeolocation from 'react-native-mauron85-background-geolocation';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
@@ -22,6 +23,7 @@ const instructions = Platform.select({
 type Props = {};
 export default class App extends Component<Props> {
   render() {
+    BackgroundGeolocation.start();
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>

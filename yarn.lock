@@ -4299,6 +4299,10 @@ react-is@^16.3.1:
   version "16.3.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.3.1.tgz#ee66e6d8283224a83b3030e110056798488359ba"
 
+react-native-mauron85-background-geolocation@0.5.0-alpha.31:
+  version "0.5.0-alpha.31"
+  resolved "https://registry.yarnpkg.com/react-native-mauron85-background-geolocation/-/react-native-mauron85-background-geolocation-0.5.0-alpha.31.tgz#6415bfd2cf1cc8fe5a12b210ac946bb2b99780da"
+
 react-native@0.55.2:
   version "0.55.2"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.55.2.tgz#80d26a3f4193ebd1fd49a4859011c501b0ca3bab"
